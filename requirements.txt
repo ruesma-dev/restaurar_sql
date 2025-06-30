@@ -1,0 +1,6 @@
+# Dependencias de tiempo de ejecución
+python-dotenv        # Cargar variables del .env
+pandas               # Manipulación de DataFrames
+SQLAlchemy           # ORM/engine para SQL Server y PostgreSQL
+psycopg2-binary     # Driver PostgreSQL
+pyodbc            # Driver ODBC para SQL Server
